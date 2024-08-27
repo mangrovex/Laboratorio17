@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c98c711-0103-4423-8d19-ddfd24a9b2b9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Laboratorio17.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/community/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/community/kw_partner_dob/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/community/kw_partner_dob/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/community/kw_partner_dob/README.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/community/kw_partner_dob/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/community/kw_partner_dob/__manifest__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/community/kw_partner_dob/i18n/uk.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/community/kw_partner_dob/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/community/kw_partner_dob/models/partner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/community/kw_partner_dob/static/description/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/community/kw_partner_dob/static/description/cover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/community/kw_partner_dob/static/description/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/community/kw_partner_dob/static/description/images/png_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/community/kw_partner_dob/static/description/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/community/kw_partner_dob/views/partner_views.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/custom/plant_nursery/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/custom/plant_nursery/__manifest__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/custom/plant_nursery/controllers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/custom/plant_nursery/controllers/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/custom/plant_nursery/controllers/portal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/custom/plant_nursery/data/ir_sequence_data.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/custom/plant_nursery/data/mail_template_data.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/custom/plant_nursery/data/plant_data.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/custom/plant_nursery/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/custom/plant_nursery/models/customer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/custom/plant_nursery/models/order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/custom/plant_nursery/models/plant.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/custom/plant_nursery/security/ir.model.access.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/custom/plant_nursery/security/security.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/custom/plant_nursery/static/description/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/custom/plant_nursery/static/img/bg_plant_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/custom/plant_nursery/static/pdf/Develop an App with the Odoo Framework.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/custom/plant_nursery/static/pdf/Inherit from these 10 Mixins to empower your App.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/custom/plant_nursery/static/src/js/quote_ask.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/custom/plant_nursery/static/src/xml/quote_ask.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/custom/plant_nursery/views/assets.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/custom/plant_nursery/views/nursery_customer_views.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/custom/plant_nursery/views/nursery_order_portal_templates.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/custom/plant_nursery/views/nursery_order_views.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/custom/plant_nursery/views/nursery_plant_quote_ask.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/custom/plant_nursery/views/nursery_plant_templates.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/custom/plant_nursery/views/nursery_plant_views.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/custom/plant_nursery_data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/custom/plant_nursery_data/__manifest__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/custom/plant_nursery_data/data/base_data.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/custom/plant_nursery_data/data/customer_data.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/custom/plant_nursery_data/data/order_data.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/custom/plant_nursery_data/data/plant_data.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/custom/plant_nursery_data/static/img/arb_lemon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/custom/plant_nursery_data/static/img/arb_orange.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/custom/plant_nursery_data/static/img/arb_pepper.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/custom/plant_nursery_data/static/img/beaucarnea_recurvata.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/custom/plant_nursery_data/static/img/dracaena_marginata.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/custom/plant_nursery_data/static/img/logo_axe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/custom/plant_nursery_data/static/img/logo_plant.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/custom/plant_nursery_data/static/img/people_man_gen_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/custom/plant_nursery_data/static/img/people_man_hipster_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/custom/plant_nursery_data/static/img/people_woman_flower_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/custom/plant_nursery_data/static/img/people_woman_gen_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/custom/plant_nursery_data/static/img/ravena_rivularis.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/custom/plant_nursery_data/static/img/tree_apple.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/custom/plant_nursery_data/static/img/tree_cherry.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/custom/plant_nursery_data/static/img/tree_plum.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab17.conf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mangrovex&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/odoo/odoo.git&quot;,
+    &quot;accountId&quot;: &quot;2f3aefad-f05f-4ee4-8069-48467e9b832d&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2lCcUf9oFWt3g8anPZGkuth5hXS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Odoo.Odoo  17.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/mevu/Documents/Developer/Laboratorio17/addons/custom",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/addons/custom" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/addons/community" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Odoo  17" type="Odoo" factoryName="Odoo">
+      <module name="Laboratorio17" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12 (odoov17)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../odoo17" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../odoo17/odoo-bin" />
+      <option name="PARAMETERS" value="-c $PROJECT_DIR$/lab17.conf -u plant_nursery" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-abccbe9d933a-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.20224.428" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c98c711-0103-4423-8d19-ddfd24a9b2b9" name="Changes" comment="" />
+      <created>1724687516198</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724687516198</updated>
+    </task>
+    <servers />
+  </component>
+</project>
