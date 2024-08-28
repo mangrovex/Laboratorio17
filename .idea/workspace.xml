@@ -4,23 +4,60 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c98c711-0103-4423-8d19-ddfd24a9b2b9" name="Changes" comment="clase 2">
-      <change afterPath="$PROJECT_DIR$/addons/custom/test01/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/addons/custom/test01/__manifest__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/addons/custom/test01/controllers/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/addons/custom/test01/controllers/controllers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/addons/custom/test01/demo/demo.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/addons/custom/test01/models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/addons/custom/test01/models/nursery_customer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/addons/custom/test01/models/nursery_order.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/addons/custom/test01/models/nursery_plants.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/addons/custom/test01/security/ir.model.access.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/addons/custom/test01/static/description/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/addons/custom/test01/views/nursery_plants_views.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/addons/custom/test01/views/templates.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/addons/custom/test01/views/views.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/csv-editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
+    <list default="true" id="0c98c711-0103-4423-8d19-ddfd24a9b2b9" name="Changes" comment="clase 3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/__manifest__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/controllers/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/controllers/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/controllers/portal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/data/ir_sequence_data.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/data/mail_template_data.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/data/plant_data.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/models/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/models/customer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/models/order.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/models/plant.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/security/ir.model.access.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/security/security.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/static/description/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/static/img/bg_plant_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/static/pdf/Develop an App with the Odoo Framework.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/static/pdf/Inherit from these 10 Mixins to empower your App.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/static/src/js/quote_ask.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/static/src/xml/quote_ask.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/views/assets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/views/nursery_customer_views.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/views/nursery_order_portal_templates.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/views/nursery_order_views.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/views/nursery_plant_quote_ask.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/views/nursery_plant_templates.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/views/nursery_plant_views.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery_data/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery_data/__manifest__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery_data/data/base_data.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery_data/data/customer_data.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery_data/data/order_data.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery_data/data/plant_data.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery_data/static/img/arb_lemon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery_data/static/img/arb_orange.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery_data/static/img/arb_pepper.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery_data/static/img/beaucarnea_recurvata.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery_data/static/img/dracaena_marginata.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery_data/static/img/logo_axe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery_data/static/img/logo_plant.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery_data/static/img/people_man_gen_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery_data/static/img/people_man_hipster_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery_data/static/img/people_woman_flower_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery_data/static/img/people_woman_gen_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery_data/static/img/ravena_rivularis.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery_data/static/img/tree_apple.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery_data/static/img/tree_cherry.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery_data/static/img/tree_plum.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/test01/__manifest__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/test01/controllers/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/test01/controllers/controllers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/custom/test01/demo/demo.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +74,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -60,26 +102,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultOdooModelFileTemplate&quot;: &quot;OdooModel&quot;,
-    &quot;DefaultOdooViewFileTemplate&quot;: &quot;OdooViewBasic&quot;,
-    &quot;Odoo.Odoo  17.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/mevu/Documents/Developer/Laboratorio17/addons/custom/test01/static/description&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultOdooModelFileTemplate": "OdooModel",
+    "DefaultOdooViewFileTemplate": "OdooViewBasic",
+    "Odoo.Odoo  17.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "02",
+    "last_opened_file_path": "/home/mevu/Documents/Developer/Laboratorio17/addons/custom/test01/static/description",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/addons/custom/test01/static/description" />
       <recent name="$PROJECT_DIR$/addons/custom" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/addons/custom" />
-      <recent name="$PROJECT_DIR$/addons/community" />
+      <recent name="$PROJECT_DIR$/addons/custom/taller01" />
+      <recent name="$PROJECT_DIR$/addons/custom/taller02" />
+      <recent name="$PROJECT_DIR$/addons/custom/taller02/views" />
+      <recent name="$PROJECT_DIR$/addons/custom/taller02/security" />
+      <recent name="$PROJECT_DIR$/addons/custom/taller02/models" />
     </key>
   </component>
   <component name="RunManager">
@@ -128,11 +173,28 @@
       <option name="project" value="LOCAL" />
       <updated>1724775979446</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="clase 3">
+      <option name="closed" value="true" />
+      <created>1724814567299</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724814567299</updated>
+    </task>
+    <task id="LOCAL-00003" summary="clase 3">
+      <option name="closed" value="true" />
+      <created>1724814876713</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724814876713</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="clase 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="clase 2" />
+    <MESSAGE value="clase 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="clase 3" />
   </component>
 </project>
