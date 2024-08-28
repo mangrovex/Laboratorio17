@@ -5,59 +5,163 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c98c711-0103-4423-8d19-ddfd24a9b2b9" name="Changes" comment="clase 3">
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_appsbar/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_appsbar/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_appsbar/__manifest__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_appsbar/doc/changelog.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_appsbar/doc/index.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_appsbar/i18n/de.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_appsbar/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_appsbar/models/ir_http.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_appsbar/models/res_company.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_appsbar/models/res_config_settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_appsbar/models/res_users.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_appsbar/static/description/banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_appsbar/static/description/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_appsbar/static/description/icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_appsbar/static/description/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_appsbar/static/description/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_appsbar/static/description/screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_appsbar/static/description/service_development.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_appsbar/static/description/service_infrastructure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_appsbar/static/description/service_integration.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_appsbar/static/description/service_support.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_appsbar/static/description/service_training.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_appsbar/static/src/scss/mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_appsbar/static/src/scss/variables.dark.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_appsbar/static/src/scss/variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_appsbar/static/src/webclient/appsbar/appsbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_appsbar/static/src/webclient/appsbar/appsbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_appsbar/static/src/webclient/appsbar/appsbar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_appsbar/static/src/webclient/menus/app_menu_service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_appsbar/static/src/webclient/navbar/navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_appsbar/static/src/webclient/navbar/navbar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_appsbar/static/src/webclient/webclient.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_appsbar/static/src/webclient/webclient.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_appsbar/static/src/webclient/webclient.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_appsbar/templates/webclient.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_appsbar/views/res_config_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_appsbar/views/res_users.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_chatter/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_chatter/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_chatter/__manifest__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_chatter/doc/changelog.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_chatter/doc/index.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_chatter/i18n/de.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_chatter/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_chatter/models/ir_http.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_chatter/models/res_users.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_chatter/static/description/banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_chatter/static/description/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_chatter/static/description/icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_chatter/static/description/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_chatter/static/description/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_chatter/static/description/screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_chatter/static/description/service_development.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_chatter/static/description/service_infrastructure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_chatter/static/description/service_integration.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_chatter/static/description/service_support.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_chatter/static/description/service_training.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_chatter/static/src/core/chatter/chatter.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_chatter/static/src/core/chatter/chatter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_chatter/static/src/scss/variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_chatter/static/src/views/form/form_compiler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_chatter/views/res_users.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_colors/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_colors/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_colors/__manifest__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_colors/doc/changelog.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_colors/doc/index.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_colors/i18n/de.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_colors/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_colors/models/res_config_settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_colors/models/web_editor_assets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_colors/static/description/banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_colors/static/description/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_colors/static/description/icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_colors/static/description/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_colors/static/description/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_colors/static/description/screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_colors/static/description/service_development.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_colors/static/description/service_infrastructure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_colors/static/description/service_integration.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_colors/static/description/service_support.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_colors/static/description/service_training.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_colors/static/src/scss/colors.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_colors/static/src/scss/colors_dark.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_colors/static/src/scss/colors_light.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_colors/templates/webclient.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_colors/views/res_config_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_dialog/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_dialog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_dialog/__manifest__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_dialog/doc/changelog.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_dialog/doc/index.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_dialog/i18n/de.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_dialog/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_dialog/models/ir_http.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_dialog/models/res_users.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_dialog/static/description/banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_dialog/static/description/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_dialog/static/description/icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_dialog/static/description/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_dialog/static/description/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_dialog/static/description/screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_dialog/static/description/service_development.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_dialog/static/description/service_infrastructure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_dialog/static/description/service_integration.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_dialog/static/description/service_support.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_dialog/static/description/service_training.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_dialog/static/src/core/dialog/dialog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_dialog/static/src/core/dialog/dialog.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_dialog/static/src/core/dialog/dialog.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_dialog/views/res_users.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_theme/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_theme/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_theme/__manifest__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_theme/doc/changelog.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_theme/doc/index.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_theme/i18n/de.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_theme/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_theme/models/ir_http.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_theme/models/res_company.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_theme/models/res_config_settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_theme/static/description/banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_theme/static/description/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_theme/static/description/icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_theme/static/description/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_theme/static/description/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_theme/static/description/screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_theme/static/description/screenshot_apps.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_theme/static/description/screenshot_chatter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_theme/static/description/screenshot_customize.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_theme/static/description/screenshot_mobile_apps.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_theme/static/description/screenshot_mobile_form.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_theme/static/description/screenshot_mobile_kanban.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_theme/static/description/screenshot_mobile_menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_theme/static/description/screenshot_settings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_theme/static/description/service_development.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_theme/static/description/service_infrastructure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_theme/static/description/service_integration.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_theme/static/description/service_support.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_theme/static/description/service_training.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_theme/static/description/theme_screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_theme/static/src/img/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_theme/static/src/scss/colors.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_theme/static/src/scss/mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_theme/static/src/scss/variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_theme/static/src/views/form/form.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_theme/static/src/webclient/appsmenu/appsmenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_theme/static/src/webclient/appsmenu/appsmenu.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_theme/static/src/webclient/appsmenu/appsmenu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_theme/static/src/webclient/navbar/navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_theme/static/src/webclient/navbar/navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_theme/static/src/webclient/navbar/navbar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_theme/templates/web_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addons/themes/muk_web_theme/views/res_config_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/csv-editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/__manifest__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/controllers/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/controllers/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/controllers/portal.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/data/ir_sequence_data.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/data/mail_template_data.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/data/plant_data.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/models/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/models/customer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/models/order.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/models/plant.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/security/ir.model.access.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/security/security.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/static/description/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/static/img/bg_plant_0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/static/pdf/Develop an App with the Odoo Framework.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/static/pdf/Inherit from these 10 Mixins to empower your App.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/static/src/js/quote_ask.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/static/src/xml/quote_ask.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/views/assets.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/views/nursery_customer_views.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/views/nursery_order_portal_templates.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/views/nursery_order_views.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/views/nursery_plant_quote_ask.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/views/nursery_plant_templates.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery/views/nursery_plant_views.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery_data/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery_data/__manifest__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery_data/data/base_data.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery_data/data/customer_data.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery_data/data/order_data.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery_data/data/plant_data.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery_data/static/img/arb_lemon.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery_data/static/img/arb_orange.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery_data/static/img/arb_pepper.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery_data/static/img/beaucarnea_recurvata.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery_data/static/img/dracaena_marginata.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery_data/static/img/logo_axe.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery_data/static/img/logo_plant.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery_data/static/img/people_man_gen_0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery_data/static/img/people_man_hipster_0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery_data/static/img/people_woman_flower_0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery_data/static/img/people_woman_gen_0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery_data/static/img/ravena_rivularis.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery_data/static/img/tree_apple.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery_data/static/img/tree_cherry.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/plant_nursery_data/static/img/tree_plum.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/test01/__manifest__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/test01/controllers/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/test01/controllers/controllers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/addons/custom/test01/demo/demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab17.conf" beforeDir="false" afterPath="$PROJECT_DIR$/lab17.conf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +180,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="02" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -109,8 +213,8 @@
     "Odoo.Odoo  17.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "02",
-    "last_opened_file_path": "/home/mevu/Documents/Developer/Laboratorio17/addons/custom/test01/static/description",
+    "git-widget-placeholder": "03",
+    "last_opened_file_path": "/home/mevu/Documents/Developer/Laboratorio17/addons",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
@@ -189,7 +293,39 @@
       <option name="project" value="LOCAL" />
       <updated>1724814876713</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="clase 3">
+      <option name="closed" value="true" />
+      <created>1724815134196</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724815134196</updated>
+    </task>
+    <task id="LOCAL-00005" summary="clase 3">
+      <option name="closed" value="true" />
+      <created>1724815185349</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1724815185349</updated>
+    </task>
+    <task id="LOCAL-00006" summary="clase 3">
+      <option name="closed" value="true" />
+      <created>1724815621080</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1724815621080</updated>
+    </task>
+    <task id="LOCAL-00007" summary="clase 3">
+      <option name="closed" value="true" />
+      <created>1724819048615</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1724819048615</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
