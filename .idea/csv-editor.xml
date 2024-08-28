@@ -10,6 +10,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/addons/custom/test01/security/ir.model.access.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../odoo17/addons/l10n_at/data/template/account.account-at.csv">
           <value>
             <Attribute>
