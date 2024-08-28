@@ -7,10 +7,11 @@
     'website': "https://www.manexware.com",
     'category': 'Uncategorized',
     'version': '17.0.0.0.1',
-    'depends': ['base','web','website','portal'],
+    'depends': ['base','web','website','portal','kw_partner_dob'],
     'data': [
         'security/ir.model.access.csv',
         'views/nursery_plants_views.xml',
+        'views/nursery_contact_views.xml',
     ],
     # 'demo': [
     #     'demo/demo.xml',

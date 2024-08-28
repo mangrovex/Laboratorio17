@@ -1,0 +1,138 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* taller02
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 17.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-28 16:53+0000\n"
+"PO-Revision-Date: 2024-08-28 11:55-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_EC\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.3\n"
+
+#. module: taller02
+#: model:ir.model.fields,field_description:taller02.field_nursery_order__name
+msgid "# de orden"
+msgstr ""
+
+#. module: taller02
+#: model:ir.model.fields,field_description:taller02.field_nursery_order__create_uid
+#: model:ir.model.fields,field_description:taller02.field_nursery_plants__create_uid
+msgid "Created by"
+msgstr ""
+
+#. module: taller02
+#: model:ir.model.fields,field_description:taller02.field_nursery_order__create_date
+#: model:ir.model.fields,field_description:taller02.field_nursery_plants__create_date
+msgid "Created on"
+msgstr ""
+
+#. module: taller02
+#: model:ir.model,name:taller02.model_nursery_order
+msgid "Description"
+msgstr ""
+
+#. module: taller02
+#: model:ir.model.fields,field_description:taller02.field_nursery_order__display_name
+#: model:ir.model.fields,field_description:taller02.field_nursery_plants__display_name
+msgid "Display Name"
+msgstr ""
+
+#. module: taller02
+#: model_terms:ir.ui.view,arch_db:taller02.nursery_plants_form_view
+msgid "Feature"
+msgstr "Carcateristica"
+
+#. module: taller02
+#: model_terms:ir.ui.view,arch_db:taller02.nursery_plants_search_view
+msgid "Group By"
+msgstr ""
+
+#. module: taller02
+#: model:ir.model.fields,field_description:taller02.field_nursery_order__id
+#: model:ir.model.fields,field_description:taller02.field_nursery_plants__id
+msgid "ID"
+msgstr ""
+
+#. module: taller02
+#: model_terms:ir.ui.view,arch_db:taller02.nursery_plants_form_view
+msgid "Ingresar el nombre de la planta"
+msgstr ""
+
+#. module: taller02
+#: model:ir.model.fields,field_description:taller02.field_res_partner__is_client
+#: model:ir.model.fields,field_description:taller02.field_res_users__is_client
+msgid "Is client"
+msgstr "Es cliente"
+
+#. module: taller02
+#: model:ir.model.fields,field_description:taller02.field_nursery_order__write_uid
+#: model:ir.model.fields,field_description:taller02.field_nursery_plants__write_uid
+msgid "Last Updated by"
+msgstr ""
+
+#. module: taller02
+#: model:ir.model.fields,field_description:taller02.field_nursery_order__write_date
+#: model:ir.model.fields,field_description:taller02.field_nursery_plants__write_date
+msgid "Last Updated on"
+msgstr ""
+
+#. module: taller02
+#: model_terms:ir.ui.view,arch_db:taller02.nursery_plants_form_view
+msgid "ModelTitle"
+msgstr ""
+
+#. module: taller02
+#: model:ir.model,name:taller02.model_res_partner
+msgid "Modelo Cliente"
+msgstr ""
+
+#. module: taller02
+#: model:ir.model,name:taller02.model_nursery_plants
+msgid "Modelo planta"
+msgstr ""
+
+#. module: taller02
+#: model:ir.model.fields,field_description:taller02.field_nursery_plants__name
+msgid "Nombre de la planta"
+msgstr ""
+
+#. module: taller02
+#: model:ir.ui.menu,name:taller02.nursery_plants_root
+msgid "Nursery Plants"
+msgstr "Vivero de plantas"
+
+#. module: taller02
+#: model:ir.actions.act_window,name:taller02.nursery_plants_act_window
+msgid "Plantas"
+msgstr ""
+
+#. module: taller02
+#: model_terms:ir.ui.view,arch_db:taller02.nursery_plants_form_view
+msgid "Planter"
+msgstr ""
+
+#. module: taller02
+#: model:ir.ui.menu,name:taller02.nursery_plants_menu
+#: model_terms:ir.ui.view,arch_db:taller02.nursery_plants_search_view
+#: model_terms:ir.ui.view,arch_db:taller02.nursery_plants_tree_view
+msgid "Plants"
+msgstr "Plantas"
+
+#. module: taller02
+#: model:ir.model.fields,field_description:taller02.field_nursery_plants__price
+#: model_terms:ir.ui.view,arch_db:taller02.nursery_plants_search_view
+msgid "Precio"
+msgstr ""
+
+#. module: taller02
+#: model_terms:ir.actions.act_window,help:taller02.nursery_plants_act_window
+msgid "There is no examples click here to add new ModelTitle."
+msgstr ""

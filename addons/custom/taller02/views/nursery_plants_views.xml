@@ -19,6 +19,7 @@
                                 <group>
                                     <group>
                                         <field name="create_date"/>
+<!--                                        <field name="plant_type"/>-->
                                     </group>
                                     <group>
                                         <field name="price"/>
