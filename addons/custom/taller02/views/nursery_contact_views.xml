@@ -1,19 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
     <data>
- <!-- Inherit Form View to Modify it -->
- <record id="view_partner_simple_form_inherit" model="ir.ui.view">
-     <field name="name">Contactos para el Vivero</field>
-     <field name="model">res.partner</field>
-     <field name="inherit_id" ref="kw_partner_dob.kw_partner_dob_res_partner_form"/>
-     <field name="arch" type="xml">
+        <!-- Inherit Form View to Modify it -->
+        <record id="view_partner_simple_form_inherit" model="ir.ui.view">
+            <field name="name">Contactos para el Vivero</field>
+            <field name="model">res.partner</field>
+            <field name="inherit_id" ref="kw_partner_dob.kw_partner_dob_res_partner_form"/>
+            <field name="arch" type="xml">
 
-         <xpath expr="//field[@name='birthday']" position="after">
-             <field name="is_client"/>
-         </xpath>
+                <xpath expr="//field[@name='birthday']" position="after">
+                    <field name="is_client"/>
+                    <field name="is_planter"/>
+                </xpath>
 
-     </field>
- </record>
+                <xpath expr="//page[@name='internal_notes']" position="after">
+                    <page name="planter" string="Planter" invisible="is_planter == False">
+                        <group>
+                            <group>
+                                <field name="planter_capacity"/>
+                                <field name="planter_color"/>
+                            </group>
+                            <group>
+                                <field name="planter_height"/>
+                                <field name="planter_shape"/>
+                            </group>
+                        </group>
+                    </page>
+                </xpath>
+
+            </field>
+        </record>
 
     </data>
 </odoo>
